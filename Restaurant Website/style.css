@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    min-width: 100vw;
+    min-height: auto;
+}
+
+.container {
+    position: relative;
+    width: 1440px;
+    height: 2483px;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+
+.nav-bar {
+    display: flex;
+    gap: 1050px;
+
+}
+
+.nav-left {
+    display: flex;
+    margin-left: 3rem;
+}
+
+.h1 {
+    width: 126px;
+    height: 27px;
+    font-family: 'Russo One';
+    font-size: 48px;
+    color: #149F39;
+}
+
+.hero {
+    display: flex;
+    padding-top: 5rem;
+    margin-left: 4rem;
+}
+
+.b1 {
+    width: 205px;
+    height: 35px;
+    background: #149F39;
+}
+
+/* .b12{
+    width: 149px;
+    height: 17px;  
+    font-size: 14px;
+    color: #FFFFFF; */
+/* } */
+
+.hr1 {
+    width: 562px;
+    height: 168px;
+    font-size: 72px;
+    color: #000000;
+    font-family: 'Roboto';
+
+}
+
+.hero-right {
+    margin-left: 6rem;
+}
+
+.hr2 {
+    padding-top: 3rem;
+    width: 363px;
+    height: 35px;
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: #000000;
+}
+
+.hr3 {
+    width: 174px;
+    height: 57px;
+    background: #FFC066;
+    margin-top: 6rem;
+}
+
+.herob {
+    display: flex;
+    gap: 5rem;
+    margin-left: 6.3rem;
+    padding-top: 4rem;
+}
+
+.hb-left {
+    display: flex;
+}
+
+.hb-middle {
+    display: flex;
+}
+
+.hb-right {
+    display: flex;
+}
+
+.h21 {
+    width: 137px;
+    height: 43px;
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: #FFFFFF;
+    background-color: #149F39;
+    margin-left: 41rem;
+    margin-top: 6rem;
+}
+
+.h22 {
+    margin-left: 37.7rem;
+    margin-top: 2.3rem;
+}
+
+.hero2 {
+    width: 1440px;
+    height: 890px;
+}
+
+.he1 {
+    width: 585px;
+    height: 585px;
+}
+
+.he2 {
+    width: 276px;
+    height: 585px;
+}
+
+.he3 {
+    width: 277px;
+    height: 274px;
+    margin-bottom: 19.4rem;
+}
+
+.he4 {
+    width: 277px;
+    height: 277px;
+    margin-bottom: 30rem;
+}
+
+.he5 {
+    width: 277px;
+    height: 277px;
+    margin-bottom: 30rem;
+    margin-left: .5rem;
+}
+.he6{
+    width: 278px;
+    height: 278px; 
+    margin-bottom: 30rem;
+    margin-left: 1.1rem;
+}
+.he7{
+    width: 277px;
+    height: 581px;
+    margin-left: 54.5rem;
+    margin-top: -1900px;
+    padding-top: -390rem;
+    
+}
+     
